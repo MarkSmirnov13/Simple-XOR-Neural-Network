@@ -1,0 +1,16 @@
+body {
+    padding: 50px;
+}
+
+.col {
+    margin-bottom: 25px;
+}
+
+h2 {
+    margin-bottom: 25px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 50px;
+}
